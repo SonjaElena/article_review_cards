@@ -54,7 +54,7 @@ html {
   border-radius: 50%;
   border: 0.125rem solid var(--clr-accent);
   margin-left: 3rem;
-  margin-right: 0.5rem;
+  margin-right: 0.1rem;
 }
 
 /* Buttons */
