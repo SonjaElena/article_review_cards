@@ -1,5 +1,5 @@
 ---
-Article Review Card
+Aufgabe: Article Review Card
 ---
 
-![CV preview](image.png)
+[CV preview](final_result.png)
