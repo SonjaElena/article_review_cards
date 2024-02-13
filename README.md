@@ -1,5 +1,10 @@
----
-Aufgabe: Article Review Card
----
+<!DOCTYPE html>
+<html>
 
-[CV preview](final_result.png)
+<body>
+
+<h1>Aufgabe: Article Review Card</h1>
+
+<img src="final_result.png" width="400">
+
+</body>
