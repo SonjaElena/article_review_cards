@@ -1,4 +1,10 @@
 /* Global settings */
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
 *,
 *::before,
 *::after {
@@ -20,7 +26,6 @@ html {
   display: flex;
   align-items: start;
   gap: 3rem;
-  _max-width: 1000px;
 }
 
 .card {
